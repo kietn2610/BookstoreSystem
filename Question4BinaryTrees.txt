@@ -1,0 +1,13 @@
+Question 4 Binary Tree:
+
+Advantage of Binary Search Trees over Hash Tables: 
+	- Binary Search Tree is faster than Hash Table at insertion and deletion
+	- Range queries such as sorting, is simpler to execute.
+	- Binary Search Tree structures have easy and efficient implementation.
+	- BST can guarantee insertion, retrieve and deletion because it never meets collision.
+
+Disadvantage of Binary Search Trees over Hash Tables:
+	- Hash Table is more effective and apperant when there is a large data set.
+	- Compare to BST, Hash Table is siginificantly simpler to implement
+	- During operations, Hash Tables take up less memory
+	- Hash Table does not maiintain a total order of insertions because it doesn't need to.
